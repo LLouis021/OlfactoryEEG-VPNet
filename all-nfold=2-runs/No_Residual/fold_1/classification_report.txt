@@ -1,0 +1,21 @@
+Date: 2026-06-10 14:03
+
+              precision    recall  f1-score   support
+
+        Rose       0.96      0.98      0.97      1122
+     Caramel       0.92      0.95      0.94      1122
+      Rotten       0.94      0.87      0.90      1122
+Canned Peach       0.79      0.79      0.79      1122
+   Excrement       0.81      0.83      0.82      1122
+        Mint       0.86      0.91      0.89      1122
+    Tea Tree       0.71      0.70      0.71      1122
+      Coffee       0.72      0.74      0.73      1122
+    Rosemary       0.80      0.75      0.78      1122
+     Jasmine       0.91      0.78      0.84      1122
+       Lemon       0.77      0.83      0.80      1122
+     Vanilla       0.65      0.67      0.66      1122
+    Lavender       0.74      0.74      0.74      1122
+
+    accuracy                           0.81     14586
+   macro avg       0.81      0.81      0.81     14586
+weighted avg       0.81      0.81      0.81     14586
